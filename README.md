@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/abhishe89558593" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe89558593?logo=twitter&style=for-the-badge" alt="abhishe89558593" /></a> </p>
 
 - 👨‍💻 All of my projects are available at
-  <a href="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/Linktree-logo-500x281.png" alt="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" height="30" width="40" /></a>
+  <a href="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3007782/file/original-8f257cba713a7493c7fb30c5cbcb9e45.png?resize=1600x1200" alt="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" height="30" width="40" /></a>
 
 - 📫 How to reach me **abhikumarsharma146@gmail.com**
 
