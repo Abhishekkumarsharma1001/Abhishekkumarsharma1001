@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhishekkumarsharma1001/Abhishekkumarsharma1001/blob/main/My%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Sharma</h1>
-<h3 align="center">I'm from India</h3>
+<h3 align="center"> 👨‍💻Computer Science 😎Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/abhishe89558593" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe89558593?logo=twitter&style=for-the-badge" alt="abhishe89558593" /></a> </p>
 
-- 👨‍💻 **All of my projects are available at**
+- **<h3>👨‍💻 All of my projects are available at</h3>**
   <a href="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3007782/file/original-8f257cba713a7493c7fb30c5cbcb9e45.png?resize=1600x1200" alt="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" height="30" width="40" /></a>
 
-- 📫 **How to reach me** 
+- **<h3>📫 How to reach me</h3>**
   <a href="https://wa.me/qr/SB37FLB6LQMLB1" target="blank"><img align="center" src="https://www.c-zentrix.com/images/solutions-page/whatsapp-us/whatsappImg_1pw.gif" alt="https://wa.me/qr/SB37FLB6LQMLB1" height="30" width="40"/> </a><a href="mailto:abhikumarsharma146@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/162645/screenshots/1727395/icon-animation_1.gif" alt="mailto:abhikumarsharma146@gmail.com" height="30" width="40" /></a>
 
-- ⚡ Fun fact **I am Funny & Helpful :**
+- ⚡ Fun fact ****I am 😜Funny & 🤝Helpful :****
 
-<h3 align="left">Connect with me:</h3>
+**<h3 align="left">🛜Connect with me:</h3>**
 <p align="left">
 <a href="https://codepen.io/abhishekkumarsharma1001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/abhishekkumarsharma1001" height="30" width="40" /></a>
 <a href="https://twitter.com/abhishe89558593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe89558593" height="30" width="40" /></a>
