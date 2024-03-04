@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishe89558593" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe89558593?logo=twitter&style=for-the-badge" alt="abhishe89558593" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3L0C6B0](https://bit.ly/3L0C6B0)
+- 👨‍💻 All of my projects are available at (https://bit.ly/3L0C6B0)
 
 - 📫 How to reach me **abhikumarsharma146@gmail.com**
 
