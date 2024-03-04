@@ -12,7 +12,7 @@
   <a href="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3007782/file/original-8f257cba713a7493c7fb30c5cbcb9e45.png?resize=1600x1200" alt="https://linktr.ee/abhishek_kr_sharma146?utm_source=linktree_profile_share&ltsid=9d52ece7-76ae-42d5-9218-297c91539cad" height="30" width="40" /></a>
 
 - 📫 **How to reach me** 
-  <a href="https://wa.me/qr/SB37FLB6LQMLB1" target="blank"><img align="center" src="https://media4.giphy.com/media/Af30iuHK6zgZzeBS35/giphy.gif" alt="https://wa.me/qr/SB37FLB6LQMLB1" height="30" width="40"/> </a><a href="mailto:abhikumarsharma146@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/162645/screenshots/1727395/icon-animation_1.gif" alt="mailto:abhikumarsharma146@gmail.com" height="30" width="40" /></a>
+  <a href="https://wa.me/qr/SB37FLB6LQMLB1" target="blank"><img align="center" src="https://www.c-zentrix.com/images/solutions-page/whatsapp-us/whatsappImg_1pw.gif" alt="https://wa.me/qr/SB37FLB6LQMLB1" height="30" width="40"/> </a><a href="mailto:abhikumarsharma146@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/162645/screenshots/1727395/icon-animation_1.gif" alt="mailto:abhikumarsharma146@gmail.com" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I am Funny & Helpful :**
 
