@@ -14,7 +14,7 @@
 - 📫 How to reach me 
  <a href="https://wa.me/qr/SB37FLB6LQMLB1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/66/196/png-transparent-whatsapp-ipa-messaging-apps-viber-text-trademark-logo-thumbnail.png" alt="https://wa.me/qr/SB37FLB6LQMLB1" height="30" width="40" /></a>
 
-  <a href="abhikumarsharma146@gmail.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/429/131/png-clipart-logo-gmail-email-google-webmail-gmail-text-logo.png" alt="abhikumarsharma146@gmail.com" height="30" width="40" /></a>
+  <a href="https://mail.google.com/mail/u/?authuser=abhikumarsharma146@gmail.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/429/131/png-clipart-logo-gmail-email-google-webmail-gmail-text-logo.png" alt="https://mail.google.com/mail/u/?authuser=abhikumarsharma146@gmail.com" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I am Funny & Helpful :**
 
