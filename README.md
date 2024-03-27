@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhishekkumarsharma1001/Abhishekkumarsharma1001/blob/main/My%20Banner.png)
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213" target="_blank"> Abhishek Kumar Sharma </a></h1>
-<h3 align="center"> 👨‍💻Computer Science 😎Engineer from India</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBComputer+Science+Engineer%F0%9F%98%8E" /> </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
