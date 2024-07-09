@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhishekkumarsharma1001/Abhishekkumarsharma1001/blob/main/My%20Banner.png)
+![logo](https://github.com/Abhishekkumarsharma1001/Abhishekkumarsharma1001/blob/main/My%20banner.png)
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213" target="_blank"> Abhishek Kumar Sharma </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBComputer+Science+Engineer%F0%9F%98%8E" /> </h3>
 
