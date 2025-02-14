@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213" target="_blank"> Abhishek Kumar Sharma </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBComputer+Science+Engineer%F0%9F%98%8E" /> </h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitendra2211" alt="nitendra2211" /></a> </p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumarsharma1001&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumarsharma1001" /> </p>
